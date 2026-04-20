@@ -12,7 +12,7 @@ Hardware Agnostic: Use any 12V fan—standard case fans, high-RPM server fans, o
 
 Extreme Scalability: Unlike motherboard headers that can fry under high current, this system uses external drivers, allowing you to daisy-chain multiple fans per channel (GPIO 1-9).
 
-Total Control: Customize your fan curves based on exact CPU/GPU thermal data rather than generic BIOS settings.
+Total Control: This controls better than those 3rd party apps, this can probably cool your Hot-Oven PC or Cookable laptop bottom
 
 🛠 Hardware Architecture
 The Controller: Raspberry Pi Series Only
