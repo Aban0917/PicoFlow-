@@ -1,5 +1,7 @@
 **#PicoFlow ||High performance universal Pc/Laptop cooling Fan hub||**
 
+**This is the first beta version made only for CPU based temps, GPU temps is in development for more optimized and customisation**
+
 PicoFlow: Universal DIY 9-Channel PC Thermal Controller
 The high-performance, budget-friendly alternative to premium fan hubs.
 
