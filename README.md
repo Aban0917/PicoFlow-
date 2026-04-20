@@ -1,11 +1,11 @@
-[!TIP] #PicoFlow ||||High performance universal Pc/Laptop cooling Fan hub||||
+**#PicoFlow ||High performance universal Pc/Laptop cooling Fan hub||**
 
 PicoFlow: Universal DIY 9-Channel PC Thermal Controller
 The high-performance, budget-friendly alternative to premium fan hubs.
 
 Most high quality and branded commercial fan controllers cost highly, limit you to specific proprietary software, and offer a restricted number of headers. Pico-Cooler Pro breaks those barriers. By leveraging the Raspberry Pi Pico or Pi Zero or Pi series and a custom C# Windows interface, this project provides a professional-grade, 9-channel cooling system that responds in real-time to your PC’s internal temperatures for a fraction of the cost.
 
-🚀 The Value Proposition
+**🚀 The Value Proposition**
 Cost-Effective: Achieve "Commander Pro" levels of control for the price of a Pico and a motor driver.
 
 Hardware Agnostic: Use any 12V fan—standard case fans, high-RPM server fans, or salvaged laptop blowers.
