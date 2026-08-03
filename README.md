@@ -16,6 +16,8 @@ Extreme Scalability: Unlike motherboard headers that can fry under high current,
 
 Total Control: This controls better than those 3rd party apps, this can probably cool your Hot-Oven PC or Cookable laptop bottom
 
+||||𝐔𝐬𝐞 𝐖𝐢𝐧𝐝𝐨𝐰𝐬𝐅𝐨𝐫𝐦𝐬𝐀𝐩𝐩𝟏𝟎𝟗𝟖.𝐜𝐬𝐩𝐫𝐨𝐣 𝐟𝐢𝐥𝐞 𝐮𝐬𝐢𝐧𝐠 𝐯𝐢𝐬𝐮𝐚𝐥 𝐬𝐭𝐮𝐝𝐢𝐨 𝐭𝐨 𝐞𝐝𝐢𝐭 𝐭𝐡𝐞 𝐧𝐮𝐦𝐛𝐞𝐫 𝐨𝐟 𝐩𝐢𝐧𝐬 𝐭𝐢𝐥𝐥 𝟐𝟖 𝐟𝐮𝐥𝐥 𝐆𝐏𝐈𝐎 (𝐃𝐞𝐟𝐚𝐮𝐥𝐭 𝐜𝐨𝐝𝐞 𝐡𝐚𝐬 𝟗 𝐜𝐡𝐚𝐧𝐧𝐞𝐥)||||
+
 🛠 Hardware Architecture
 The Controller: Raspberry Pi Series Only
 This project is purpose-built for the Raspberry Pi ecosystem.
